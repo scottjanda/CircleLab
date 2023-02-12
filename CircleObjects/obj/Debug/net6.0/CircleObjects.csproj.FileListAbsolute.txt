@@ -1,0 +1,15 @@
+C:\Users\sjanda\Desktop\GrandCircus\Projects\CircleObjectsApp\CircleObjects\bin\Debug\net6.0\CircleObjects.exe
+C:\Users\sjanda\Desktop\GrandCircus\Projects\CircleObjectsApp\CircleObjects\bin\Debug\net6.0\CircleObjects.deps.json
+C:\Users\sjanda\Desktop\GrandCircus\Projects\CircleObjectsApp\CircleObjects\bin\Debug\net6.0\CircleObjects.runtimeconfig.json
+C:\Users\sjanda\Desktop\GrandCircus\Projects\CircleObjectsApp\CircleObjects\bin\Debug\net6.0\CircleObjects.dll
+C:\Users\sjanda\Desktop\GrandCircus\Projects\CircleObjectsApp\CircleObjects\bin\Debug\net6.0\CircleObjects.pdb
+C:\Users\sjanda\Desktop\GrandCircus\Projects\CircleObjectsApp\CircleObjects\obj\Debug\net6.0\CircleObjects.csproj.AssemblyReference.cache
+C:\Users\sjanda\Desktop\GrandCircus\Projects\CircleObjectsApp\CircleObjects\obj\Debug\net6.0\CircleObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sjanda\Desktop\GrandCircus\Projects\CircleObjectsApp\CircleObjects\obj\Debug\net6.0\CircleObjects.AssemblyInfoInputs.cache
+C:\Users\sjanda\Desktop\GrandCircus\Projects\CircleObjectsApp\CircleObjects\obj\Debug\net6.0\CircleObjects.AssemblyInfo.cs
+C:\Users\sjanda\Desktop\GrandCircus\Projects\CircleObjectsApp\CircleObjects\obj\Debug\net6.0\CircleObjects.csproj.CoreCompileInputs.cache
+C:\Users\sjanda\Desktop\GrandCircus\Projects\CircleObjectsApp\CircleObjects\obj\Debug\net6.0\CircleObjects.dll
+C:\Users\sjanda\Desktop\GrandCircus\Projects\CircleObjectsApp\CircleObjects\obj\Debug\net6.0\refint\CircleObjects.dll
+C:\Users\sjanda\Desktop\GrandCircus\Projects\CircleObjectsApp\CircleObjects\obj\Debug\net6.0\CircleObjects.pdb
+C:\Users\sjanda\Desktop\GrandCircus\Projects\CircleObjectsApp\CircleObjects\obj\Debug\net6.0\CircleObjects.genruntimeconfig.cache
+C:\Users\sjanda\Desktop\GrandCircus\Projects\CircleObjectsApp\CircleObjects\obj\Debug\net6.0\ref\CircleObjects.dll
