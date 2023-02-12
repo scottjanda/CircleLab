@@ -1,24 +1,30 @@
 ﻿using CircleObjects;
 using System.Diagnostics.Metrics;
 
-Circle circle = new Circle(userRadius);
-string userContinue;
+
+string userContinue = "y";
+Console.WriteLine("Welcome to the circle tester");
 
 do
 {
 
-Console.WriteLine("Welcome to the circle tester");
-Console.Write("Enter radius:  ");
-bool validRadius = double.TryParse(Console.ReadLine(), out double userRadius);
+    Console.Write("Enter radius:  ");
+    if (double.TryParse(Console.ReadLine(), out double userRadius) && userRadius > 0)
+    {
+        Circle circle = new Circle(userRadius);
 
+        Console.WriteLine(circle.CalculateFormattedCircumference());
+        Console.WriteLine(circle.CalculateFormattedArea());
+    }
+    else
+    {
+        Console.WriteLine("Please enter a positive number for the radius.\n");
+        continue;
+    }
 
-
-Console.WriteLine(circle.CalculateFormattedCircumference());
-Console.WriteLine(circle.CalculateFormattedArea());
-
-Console.Write("Continue? (y/n):");
+    Console.Write("Continue? (y/n):");
     userContinue = Console.ReadLine();
 
 } while (userContinue.ToLower() == "y");
 
-Console.WriteLine($"Goodby! You created {counter} circle objects!");
+Console.WriteLine($"Goodby! You created {Circle.counter} circle objects!");

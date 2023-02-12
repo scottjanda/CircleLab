@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\sjanda\\.nuget\\packages\\": {}
+    "C:\\Users\\scott\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sjanda\\Desktop\\GrandCircus\\Projects\\CircleObjectsApp\\CircleObjects\\CircleObjects.csproj",
+      "projectUniqueName": "C:\\Users\\scott\\Desktop\\GrandCircus\\Repositories\\CircleLab\\CircleObjects\\CircleObjects.csproj",
       "projectName": "CircleObjects",
-      "projectPath": "C:\\Users\\sjanda\\Desktop\\GrandCircus\\Projects\\CircleObjectsApp\\CircleObjects\\CircleObjects.csproj",
-      "packagesPath": "C:\\Users\\sjanda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sjanda\\Desktop\\GrandCircus\\Projects\\CircleObjectsApp\\CircleObjects\\obj\\",
+      "projectPath": "C:\\Users\\scott\\Desktop\\GrandCircus\\Repositories\\CircleLab\\CircleObjects\\CircleObjects.csproj",
+      "packagesPath": "C:\\Users\\scott\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\scott\\Desktop\\GrandCircus\\Repositories\\CircleLab\\CircleObjects\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sjanda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\scott\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
